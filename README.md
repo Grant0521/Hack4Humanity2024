@@ -4,11 +4,11 @@ H4H was a 24 hr hackathon on 2/17/2024. My team developed a game to teach better
 ## Link to game's DevPost
 [Social Sim DevPost](https://devpost.com/software/social-sim)
 
-## Link to main game file. In this, I developed the conversation() function, which calls the API and fairy helper functions to retrieve required dialogue 
+## Link to main game.js file. In this, I developed the conversation() function, which calls the API and fairy helper functions to retrieve required dialogue 
 [game.js](https://github.com/suncycles/h4hsocialsim/blob/main/public/game.js)
 
-## Link to openAI file, which contains API call function
+## Link to openAI.js file, which contains API call function
 [openAI.js](https://github.com/suncycles/h4hsocialsim/blob/main/public/openai.js)
 
-## Link to fairy helper file, which generated prompts for the fairy sidekick to provide to the user
+## Link to fairyHelper.js file, which generated prompts for the fairy sidekick to provide to the user
 [fairyHelper.js](https://github.com/suncycles/h4hsocialsim/blob/main/public/fairyHelper.js)
